@@ -6,3 +6,6 @@ Mini Project
 
 Cd: The cd command will allow you to change directories. This is used to go into directories or files. This is done by typing cd space the file you want to go into and pressing enter.
 
+Rm: rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. This is used to removes unwanted files or directories. This is done by typing rm space (types) file name
+(Synopsis: rm [-dfiPRrvW])
+(Types: -d, -f, -i,-P, -R, -r, -v, -W )
