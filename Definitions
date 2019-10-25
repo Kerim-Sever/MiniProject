@@ -36,5 +36,10 @@ By pressing tab after typing in a few keys it will automatically open up the fir
 - This is done by typing the initial of the command, URL, or file and pressing tab to complete the task.
 
 
+Using up and down arrow for history:
+The up arrow key allows you to see the previous characters typed in history and allows you to use them instead of repeating. Same with the down key instead of previous it shows the line after.
+-This is used to go through the history of commands written previously
+-This is done by pressing up and down to scroll through the previous commands.
+
 
 
