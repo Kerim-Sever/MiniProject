@@ -7,13 +7,22 @@ Mini Project
 Cd: The cd command will allow you to change directories. This is used to go into directories or files. 
 - This is done by typing cd space the file you want to go into and pressing enter.
 
+
 Rm: rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. 
 - This is used to removes unwanted files or directories. 
 - This is done by typing rm space (types) file name
 (Synopsis: rm [-dfiPRrvW])
 (Types: -d, -f, -i,-P, -R, -r, -v, -W )
 
+
 History: In Linux, there is a very useful command to show you all of the last commands that have been recently used. The command is simply called history, but can also be accessed by looking at your home folder.
  -This is used to see what commands the user typed previously and can scroll through 	them by using the up and down arrow.
  -This is done by typing history in the terminal and it will appear. 
+
+
+Home directory and ~: A home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. It is also the directory that a user is first in after logging into the system. The tilde (~) is a Linux "shortcut" to denote a user's home directory. Thus tilde slash (~/) is the beginning of a path to a file or directory below the user's home directory.
+ - This is used to go back to your pc home user (basically your desktop). Home directory (cd) and cd ~ bring you to the computer’s home directory which is under user/username.
+ - This is done by typing cd or cd ~
+
+
 
