@@ -30,7 +30,27 @@ This command is used to copy files or group of files or directory.
 (Synapsis types: cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file target_file	
 cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file)
  	(Types: -v, -X, -c, -R, -p, -P, -n, -L, -i, -H, -f, -a)
----
+
+
+
+
+Pwd: 
+The pwd command is one of the most frequently used commands by Linux system administrators. This is used to see which directory you are in. 
+-This is used to see which directory you are in before starting to move things around so you don’t lose track of your location. 
+-To do this you must simply type pwd and press enter.
+
+
+
+
+Mv: T
+he mv command is a command-line utility that moves files or directories from one place to another. 
+
+-This is used to move files or directories from one place to another. 
+-This is done by typing mv space source.
+(Synopsis: mv [-f | -i | -n] [-v] source target
+ mv [-f | -i | -n] [-v] source ... directory)
+(Types: -v, -n, -i, -f)
+
 
 
 
