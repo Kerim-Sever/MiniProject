@@ -25,7 +25,8 @@ Home directory and ~: A home directory, also called a login directory, is the di
  - This is done by typing cd or cd ~
 
 
-file paths in Linux: PATH is an environmental variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (i.e., ready-to-run programs) in response to commands issued by a user.
-        
+File paths in Linux: PATH is an environmental variable in Linux and other Unix-like operating systems that tells the shell which directories to search for executable files (i.e., ready-to-run programs) in response to commands issued by a user.
+ -This is used to speed up the process of entering URLs or files.
+ -This is done by the drag and drop method.       
 
 
