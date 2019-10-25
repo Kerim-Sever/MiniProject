@@ -30,3 +30,11 @@ File paths in Linux: PATH is an environmental variable in Linux and other Unix-l
  -This is done by the drag and drop method.       
 
 
+Using the tab key to complete file paths: 
+By pressing tab after typing in a few keys it will automatically open up the first matched file. For example, let’s say you want to run the firefox command. You can just type fir or fire into the terminal and press Tab — if your system doesn’t have any other commands that begin with those letters, Bash will automatically fill in firefox and you can press Enter to run the command. If you press tab twice it will give you options that start with the characters typed.
+- This is used to speed up the process of the command, URL or files on the PC.
+- This is done by typing the initial of the command, URL, or file and pressing tab to complete the task.
+
+
+
+
