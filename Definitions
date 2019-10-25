@@ -22,11 +22,15 @@ The mkdir command in UNIX allows users to create directories or folders as they 
 
 
 
+Cp: 
+This command is used to copy files or group of files or directory. 
 
-
-
-
-
+-This is used to copy files and for directories, a simple file and other features. 
+-The features and synopsis is
+(Synapsis types: cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file target_file	
+cp [-R [-H | -L | -P]] [-fi | -n] [-apvX] source_file)
+ 	(Types: -v, -X, -c, -R, -p, -P, -n, -L, -i, -H, -f, -a)
+---
 
 
 
