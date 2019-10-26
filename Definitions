@@ -1,5 +1,4 @@
 Kerim Sever
-Haydy Abdalla
 Keith Williams
 Is 117-101-f19
 26 October 2019
@@ -108,7 +107,7 @@ The up arrow key allows you to see the previous characters typed in history and 
 -This is done by pressing up and down to scroll through the previous commands.
 
 
-## Part 2
+## Part 2 (Haydy Abdalla)
 - Repository: It is like a "project" and contains all the project files as well as the documentation behind it. It stores every revision made on a file, creating a detailed history for every repository made. It can contain many collaborators and can be either public or private.
   - For example, if you want to work on a new project, go to github.com and click "create a new repository." Then, create a name, choose a license, and format it as needed as per the requirements of the project
 
