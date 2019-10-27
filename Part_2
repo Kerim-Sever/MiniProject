@@ -35,3 +35,8 @@
 - Master Branch: The default branch that should always contain the most currently updated version of code. Before you code, you have to pull the master branch because it contains the latest update of the coding project.
   - When you create a new repository, any changes you make by default will go to the master branch. If you are working on a forked version of the proejct or have created another branch, then none of your chnages will be added to the master branch by default. You must first commit your changes, create a pull request, then the leader must merge both version, original and edited, together to get the updated version of the project.
   
+Sources Used: 
+https://help.github.com/en/github/getting-started-with-github/github-glossary
+https://www.coredna.com/blogs/what-is-git-and-github-part-two
+https://linuxacademy.com/blog/linux/git-terms-explained/
+https://help.github.com/en/github/using-git/adding-a-remote
